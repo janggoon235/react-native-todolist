@@ -16,6 +16,7 @@ const BlackBackground = Styled.View`
   height: 100%;
 `;
 
+
 interface Props {
   onPress: () => void;
 };
